@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="0 0 373.3093 273.93576"
+   viewBox="0 0 420 297"
    version="1.1"
    id="svg1"
    xmlns="http://www.w3.org/2000/svg"
@@ -159,133 +159,152 @@
   </defs>
   <g
      id="layer1"
-     transform="translate(-10.303022,-13.726103)">
+     transform="translate(-7.3448342,-9.5271994)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.2;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-       x="108.25761"
-       y="132.25482"
-       id="text2">⋃<tspan
+       x="118.62645"
+       y="139.23557"
+       id="text2"><tspan
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="118.62645"
+         y="139.23557">⋃<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan76">ℕ</tspan> (<tspan
    style="fill:#1a9900;fill-opacity:1"
    id="tspan85">no interior</tspan> + <tspan
    style="fill:#b29900;fill-opacity:1"
-   id="tspan81">closed</tspan>)<tspan
+   id="tspan81">closed</tspan>)</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="108.25761"
-         y="144.95479"
+         x="118.62645"
+         y="151.93553"
          id="tspan5">⇓</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#1a9900;fill-opacity:1;stroke-width:0.264583"
-         x="109.93506"
-         y="157.65474"
+         x="120.3039"
+         y="164.63548"
          id="tspan6">no interior </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.2;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.265;stroke-dasharray:none"
-       x="324.01971"
-       y="130.83665"
+       x="334.38855"
+       y="137.92323"
        id="text3"><tspan
          id="tspan3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#cc0000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.265;stroke-dasharray:none"
-         x="324.01971"
-         y="130.83665">meagre</tspan><tspan
+         x="334.38855"
+         y="137.92323">meagre</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.265;stroke-dasharray:none"
-         x="324.01971"
-         y="143.53662"
+         x="334.38855"
+         y="150.6232"
          id="tspan9">⇓</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#1a9900;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
-         x="324.01971"
-         y="156.23657"
+         x="334.38855"
+         y="163.32315"
          id="tspan10">no interior</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.2;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-       x="324.05673"
-       y="249.3291"
+       x="334.42557"
+       y="257.20941"
        id="text1-6"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="334.42557"
+         y="257.20941"
+         id="tspan7-0"><tspan
    style="fill:#1a9900;fill-opacity:1"
    id="tspan88">nonempty</tspan> <tspan
    style="fill:#b29900;fill-opacity:1"
-   id="tspan83">open</tspan> set<tspan
+   id="tspan83">open</tspan> set</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="324.05673"
-         y="262.02905"
+         x="334.42557"
+         y="269.90936"
          id="tspan24">⇓</tspan><tspan
-         x="324.05673"
-         y="274.72903"
-         id="tspan25">not </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="334.42557"
+         y="282.60934"
+         id="tspan25">not <tspan
    style="fill:#cc0000;fill-opacity:1"
-   id="tspan79">meagre</tspan></text>
+   id="tspan79">meagre</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.2;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-       x="107.8872"
-       y="234.66071"
-       id="text2-0">⋃<tspan
+       x="118.25603"
+       y="242.54102"
+       id="text2-0"><tspan
+         id="tspan2-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="118.25603"
+         y="242.54102">⋃<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan75">ℕ</tspan> of <tspan
    style="fill:#b29900;fill-opacity:1"
-   id="tspan82">closed</tspan> sets<tspan
-         x="107.8872"
-         y="247.36067"
-         id="tspan16">has an </tspan><tspan
-   style="fill:#1a9900;fill-opacity:1"
-   id="tspan86">interior</tspan> point<tspan
+   id="tspan82">closed</tspan> sets</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="107.8872"
-         y="260.06064"
+         x="118.25603"
+         y="255.24098"
+         id="tspan16">has an <tspan
+   style="fill:#1a9900;fill-opacity:1"
+   id="tspan86">interior</tspan> point</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="118.25603"
+         y="267.94095"
          id="tspan5-1">⇓</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="107.8872"
-         y="272.76059"
+         x="118.25603"
+         y="280.6409"
          id="tspan6-3">at least one of them</tspan><tspan
-         x="107.8872"
-         y="285.46054"
-         id="tspan17">has an </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="118.25603"
+         y="293.34085"
+         id="tspan17">has an <tspan
    style="fill:#1a9900;fill-opacity:1"
-   id="tspan87">interior</tspan> point</text>
+   id="tspan87">interior</tspan> point</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.2;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-       x="108.25761"
-       y="29.848942"
-       id="text1">⋂<tspan
+       x="118.62645"
+       y="38.020714"
+       id="text1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="118.62645"
+         y="38.020714"
+         id="tspan14">⋂<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan77">ℕ</tspan> (<tspan
    style="fill:#1a9900;fill-opacity:1"
    id="tspan84">dense</tspan> + <tspan
    style="fill:#b29900;fill-opacity:1"
-   id="tspan80">open</tspan>)<tspan
+   id="tspan80">open</tspan>)</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="108.25761"
-         y="42.548901"
+         x="118.62645"
+         y="50.720673"
          id="tspan8">⇓</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#1a9900;fill-opacity:1;stroke-width:0.264583"
-         x="108.25761"
-         y="55.248863"
+         x="118.62645"
+         y="63.420635"
          id="tspan7">dense</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.2;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-       x="324.2049"
-       y="28.441364"
+       x="334.57373"
+       y="36.613136"
        id="text4"><tspan
          id="tspan4"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#cc0000;fill-opacity:1;stroke-width:0.264583"
-         x="324.2049"
-         y="28.441364">comeagre</tspan><tspan
+         x="334.57373"
+         y="36.613136">comeagre</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="324.2049"
-         y="41.141323"
+         x="334.57373"
+         y="49.313095"
          id="tspan11">⇓</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#1a9900;fill-opacity:1;stroke-width:0.264583"
-         x="324.2049"
-         y="53.841286"
+         x="334.57373"
+         y="62.013058"
          id="tspan12">dense</tspan></text>
     <g
        id="g49"
-       transform="translate(-17.596503,0.49524205)">
+       transform="translate(-7.2276641,8.0741546)">
       <path
          style="fill:none;fill-opacity:1;stroke:#00aaff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#ConcaveTriangle);marker-end:url(#ConcaveTriangle)"
          d="M 341.80669,73.661228 V 104.63403"
@@ -303,7 +322,7 @@
     </g>
     <g
        id="g47"
-       transform="translate(-17.596503,0.44793325)">
+       transform="translate(-7.2276641,8.3282506)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.2;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00aaff;fill-opacity:1;stroke-width:0.264583"
@@ -321,7 +340,7 @@
     </g>
     <g
        id="g48"
-       transform="translate(-17.596503,0.44762505)">
+       transform="translate(-7.2276641,8.0741626)">
       <path
          style="fill:none;fill-opacity:1;stroke:#00aaff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#ConcaveTriangle-6);marker-end:url(#ConcaveTriangle-6)"
          d="M 125.63716,73.708852 V 104.68164"
@@ -338,83 +357,86 @@
            y="91.531021">complement</tspan></text>
     </g>
     <g
-       id="g50"
-       transform="translate(-21.321799,-1.9891841)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.2;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00aaff;fill-opacity:1;stroke-width:0.264583"
-         x="252.92587"
-         y="124.54331"
-         id="text15-4"><tspan
-           id="tspan15-1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00aaff;fill-opacity:1;stroke-width:0.264583"
-           x="252.92587"
-           y="124.54331">only consider</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00aaff;fill-opacity:1;stroke-width:0.264583"
-           x="252.92587"
-           y="134.70332"
-           id="tspan42">closed sets</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.2;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00aaff;fill-opacity:1;stroke-width:0.264583"
-         x="253.25246"
-         y="157.1684"
-         id="text15-4-9"><tspan
-           id="tspan15-1-2"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00aaff;fill-opacity:1;stroke-width:0.264583"
-           x="253.25246"
-           y="157.1684">consider</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00aaff;fill-opacity:1;stroke-width:0.264583"
-           x="253.25246"
-           y="167.3284"
-           id="tspan43">their closures</tspan></text>
+       id="g3"
+       transform="translate(10.368839,7.8803176)">
       <g
-         id="g39-4"
-         transform="rotate(90,330.60662,131.57938)">
-        <path
-           style="fill:none;fill-opacity:1;stroke:#00aaff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-7-6-2)"
-           d="M 338.65782,244.00593 V 178.84501"
-           id="path14-8-2-1" />
-        <path
-           style="fill:none;fill-opacity:1;stroke:#00aaff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-7-4-5-6)"
-           d="M 344.95557,174.04719 V 239.2081"
-           id="path14-8-8-7-4" />
+         id="g1">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.2;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00aaff;fill-opacity:1;stroke-width:0.264583"
+           x="231.81078"
+           y="154.30414"
+           id="text15-4"><tspan
+             id="tspan15-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00aaff;fill-opacity:1;stroke-width:0.264583"
+             x="231.81078"
+             y="154.30414">apply to</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00aaff;fill-opacity:1;stroke-width:0.264583"
+             x="231.81078"
+             y="164.46414"
+             id="tspan42">closed sets</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.2;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00aaff;fill-opacity:1;stroke-width:0.264583"
+           x="231.93066"
+           y="121.84168"
+           id="text15-4-9"><tspan
+             id="tspan15-1-2"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00aaff;fill-opacity:1;stroke-width:0.264583"
+             x="231.93066"
+             y="121.84168">consider</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00aaff;fill-opacity:1;stroke-width:0.264583"
+             x="231.93066"
+             y="132.00169"
+             id="tspan43">the closures</tspan></text>
+        <g
+           id="g39-4"
+           transform="rotate(90,321.20489,119.65931)">
+          <path
+             style="fill:none;fill-opacity:1;stroke:#00aaff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-7-6-2)"
+             d="M 338.65782,244.00593 V 178.84501"
+             id="path14-8-2-1" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#00aaff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-7-4-5-6)"
+             d="M 344.95557,174.04719 V 239.2081"
+             id="path14-8-8-7-4" />
+        </g>
       </g>
     </g>
     <g
-       id="g51"
-       transform="translate(-26.471937,-4.1058508)">
+       id="g2"
+       transform="translate(10.368839,7.8803176)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.2;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00aaff;fill-opacity:1;stroke-width:0.264583"
-         x="258.07602"
-         y="24.264639"
+         x="231.81078"
+         y="52.437958"
          id="text15-4-2"><tspan
            id="tspan15-1-1"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00aaff;fill-opacity:1;stroke-width:0.264583"
-           x="258.07602"
-           y="24.264639">only consider</tspan><tspan
+           x="231.81078"
+           y="52.437958">apply to</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00aaff;fill-opacity:1;stroke-width:0.264583"
-           x="258.07602"
-           y="34.424644"
+           x="231.81078"
+           y="62.597961"
            id="tspan45">open sets</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.2;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00aaff;fill-opacity:1;stroke-width:0.264583"
-         x="258.19589"
-         y="56.889771"
+         x="231.72397"
+         y="19.446417"
          id="text15-4-9-2"><tspan
            id="tspan15-1-2-0"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00aaff;fill-opacity:1;stroke-width:0.264583"
-           x="258.19589"
-           y="56.889771">consider</tspan><tspan
+           x="231.72397"
+           y="19.446417">consider</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00aaff;fill-opacity:1;stroke-width:0.264583"
-           x="258.19589"
-           y="67.049774"
-           id="tspan44">their interior</tspan></text>
+           x="231.72397"
+           y="29.606421"
+           id="tspan44">the interiors</tspan></text>
       <g
          id="g39-4-0"
-         transform="rotate(90,382.9107,84.425438)">
+         transform="rotate(90,371.99224,68.871961)">
         <path
            style="fill:none;fill-opacity:1;stroke:#00aaff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-7-6-2-5)"
            d="M 338.65782,244.00593 V 178.84501"
@@ -427,7 +449,7 @@
     </g>
     <g
        id="g73"
-       transform="translate(0,1.0003348)">
+       transform="translate(10.368839,8.8806526)">
       <g
          id="g39"
          transform="matrix(1,0,0,0.86797343,-17.842373,17.093353)"
@@ -476,7 +498,7 @@
     </g>
     <g
        id="g78"
-       transform="translate(0,-11.1125)">
+       transform="translate(10.368839,-3.2321824)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;line-height:1.2;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#00aaff;fill-opacity:1;stroke-width:0.264583"
@@ -497,7 +519,8 @@
          id="path78" />
     </g>
     <g
-       id="g79">
+       id="g79"
+       transform="translate(10.368839,7.8803176)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;line-height:1.2;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#00aaff;fill-opacity:1;stroke-width:0.264583"
