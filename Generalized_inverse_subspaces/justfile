@@ -1,0 +1,23 @@
+# Prerequisite: Typst v0.14.1 and https://github.com/chmln/sd.
+
+PREFIX := "Generalized_inverse_subspaces"
+
+# Build all SVGs
+build:
+    just typst-compile general.typ
+
+    just typst-compile reflexive.typ reflexive.svg --input mode=reflexive
+    just typst-compile reflexive.typ left.svg --input mode=left
+    just typst-compile reflexive.typ right.svg --input mode=right
+
+# Run typst compile with prefix and fix-svg
+[private]
+typst-compile INPUT OUTPUT=replace_regex(INPUT, "\\.typ$", ".svg") *ARGS: && (fix-svg PREFIX + "-" + OUTPUT)
+    typst compile {{ PREFIX + "-" + INPUT }} {{ PREFIX + "-" + OUTPUT }} {{ ARGS }}
+
+# Improve the document declaration according to https://commons.wikimedia.org/wiki/Help:SVG#Document_declaration
+fix-svg FILE:
+    sd --max-replacements=1 \
+      '(<svg class="typst-doc" [^>]+) width="[\.\d]+pt" height="[\.\d]+pt" (.+>)' \
+      '<?xml version="1.0" encoding="UTF-8"?>\n$1 $2' \
+      {{ FILE }}

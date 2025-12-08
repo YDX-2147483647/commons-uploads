@@ -9,6 +9,7 @@ Original:
 - [File:Multivector.svg - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Multivector.svg)
 - [File:Baire space definitions.svg - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Baire_space_definitions.svg)
   (first published in [herglotz](https://github.com/YDX-2147483647/herglotz) as `fig/baire_space{,-no_context_strokes}.svg`)
+- [File:Generalized inverse subspaces-reflexive.svg - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Generalized_inverse_subspaces-reflexive.svg) and other versions ([general](https://commons.wikimedia.org/wiki/File:Generalized_inverse_subspaces-general.svg), [left](https://commons.wikimedia.org/wiki/File:Generalized_inverse_subspaces-left.svg), [right](https://commons.wikimedia.org/wiki/File:Generalized_inverse_subspaces-right.svg))
 
 Edit:
 
