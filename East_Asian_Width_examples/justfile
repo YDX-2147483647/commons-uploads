@@ -1,0 +1,12 @@
+# Prerequisite: Typst v0.14.2 and https://github.com/chmln/sd.
+
+# Build SVG
+build: && (fix-svg "East_Asian_Width_examples.svg")
+    typst compile East_Asian_Width_examples.typ --format svg
+
+# Improve the document declaration according to https://commons.wikimedia.org/wiki/Help:SVG#Document_declaration
+fix-svg FILE:
+    sd --max-replacements=1 \
+      '(<svg class="typst-doc" [^>]+) width="[\.\d]+pt" height="[\.\d]+pt" (.+>)' \
+      '<?xml version="1.0" encoding="UTF-8"?>\n$1 $2' \
+      {{ FILE }}
